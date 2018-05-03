@@ -1,4 +1,4 @@
 ### YamlMime:YamlDocument
 documentType: LandingData
 metadata:
-document_id_source_file: index.yml
+     document_id_source_file: index.yml
